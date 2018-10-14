@@ -1,0 +1,2 @@
+PATH: PATH=$PATH:/Users/shivammaheshwari/Library/Python/3.7/bin twine -V
+export PATH

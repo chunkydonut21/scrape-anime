@@ -1,0 +1,8 @@
+README.md
+setup.py
+scrape_anime/__init__.py
+scrape_anime/scrape.py
+scrape_naime.egg-info/PKG-INFO
+scrape_naime.egg-info/SOURCES.txt
+scrape_naime.egg-info/dependency_links.txt
+scrape_naime.egg-info/top_level.txt
